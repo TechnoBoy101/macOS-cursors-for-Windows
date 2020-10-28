@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>macOS cursors for Windows</title>
@@ -10,5 +9,3 @@
 		here
 	</a>
 	and download as a zip.
-</body>
-</html>
