@@ -1,6 +1,8 @@
 <html>
 <head>
 	<title>macOS cursors for Windows</title>
+	<link rel="shortcut icon" C:\Users\Guest\Desktop\DAGGER\Progammin'\Programmin'.ico" />
+	
 </head>
 <body>
 <p>
