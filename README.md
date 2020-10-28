@@ -1,7 +1,8 @@
 How To Download macOS cursors for Windows:
 
 Click on code 
-<iframe src="C:\Users\Guest\Desktop\DAGGER\cursors\macbook\macOS cursors for windows\Setup!.mp4" width="1350px;" height="500px;"></iframe>
-
-And then:
-
+Download The Zip
+right click on it and extract
+click on 'Download Scheme'
+A new Scheme with the name 'macOS Scheme' will be downloaded
+Select it and you are good to go.
