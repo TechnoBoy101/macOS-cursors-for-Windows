@@ -6,7 +6,7 @@
 <p>
 	Just Click
 	<a href="https://github.com/TechnoBoy101/macOS-cursors-for-Windows.git">
-		here
+	here
 	</a>
 	and download as a zip.
 	</p>
